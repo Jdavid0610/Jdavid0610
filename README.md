@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Jdavid0610)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Jdavid0610?cardType=octocat&theme=react&preferLogin=false&Border=6D1299&Text=DDDDDD)](https://git.io/awesome-stats-card)
